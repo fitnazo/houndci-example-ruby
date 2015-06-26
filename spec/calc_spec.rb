@@ -6,7 +6,7 @@ RSpec.describe Calc do
     it "returns sum of 2 numbers" do
       calc = Calc.new # setup
       result = calc.sum(2, 3) # exercise
-      expect(result).to eq(5) # verify
+      expect(result).to eq(15) # verify
     end
   end
 end
