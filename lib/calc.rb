@@ -1,5 +1,6 @@
+# Calculator class
 class Calc
-	def sum(a, b)
-		a + b
-	end
+  def sum(a, b)
+    a + b
+  end
 end
