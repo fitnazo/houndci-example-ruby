@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/repos/558d8a7d6956804a00009d75/badges/fb77880fc4767c8442e4/gpa.svg)](https://codeclimate.com/repos/558d8a7d6956804a00009d75/feed)
+
 # Start RSpec
 Learn Rspec Testing for ruby step by steps
 
